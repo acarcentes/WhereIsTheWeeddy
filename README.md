@@ -1,6 +1,6 @@
 # WhereIsTheWeed
 
-![](Where Is The Weed.gif)
+![](./assets/images/Where Is The Weed.gif)
 
 ## Table of Contents
 
