@@ -1,6 +1,6 @@
 # WhereIsTheWeed
 
-![](./assets/images/Where-Is-The-Weed.gif)
+< src= "/assets/images/Where-Is-The-Weed.gif >
 
 ## Table of Contents
 
